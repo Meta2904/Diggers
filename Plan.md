@@ -1,14 +1,4 @@
-@@ -0,0 +1,32 @@
-<!doctype html>
-<html>
-<head>
-<title>A1 Project Plan for ?Student Name?</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-  <style type="text/css">
-    body { font-family: Arial; margin-left: 3em; }
-    h1, h2 { margin-left: -1em; }
-    h2 { margin-top: 1.5em; margin-bottom: 0.5em; }
-  </style>
+
 </head>
 
 <body>
